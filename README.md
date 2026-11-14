@@ -26,7 +26,7 @@ Computer Science and Software Engineering student at the **University of Washing
 
 ## 📌 Featured GitHub Repositories
 
-### 1. 💰 [SpendSense-AI](https://www.google.com/search?q=https://github.com/yourusername/spendsense-ai)
+### 1. 💰 [SpendSense-AI](https://spendsense-ai-nine.vercel.app/login)
 
 * **Tech Stack:** Next.js, TypeScript, PostgreSQL, Tailwind CSS, Python (ML models)
 * **Description:** A cloud-native full-stack financial application featuring a custom REST API and a **Triple-Engine AI Forecast module** (Linear Regression, Simple Moving Average, Exponential Smoothing).
@@ -36,7 +36,7 @@ Computer Science and Software Engineering student at the **University of Washing
 
 
 
-### 2. ✈️ [Flight-Tracker-App](https://www.google.com/search?q=https://github.com/yourusername/flight-tracker-app)
+### 2. ✈️ [Flight-Tracker-App]
 
 * **Tech Stack:** React.js, Node.js, Express, MongoDB, OpenSky Network API
 * **Description:** A real-time flight tracking system designed to monitor live aircraft positions globally.
@@ -46,7 +46,7 @@ Computer Science and Software Engineering student at the **University of Washing
 
 
 
-### 3. 🏥 [PatchPal](https://www.google.com/search?q=https://github.com/yourusername/patchpal)
+### 3. 🏥 [PatchPal]
 
 * **Tech Stack:** React Native, Node.js, PostgreSQL
 * **Description:** Developed during UWB Hacks 2025 (winning recognition under the "Save the World" track), this mobile app streamlines healthcare navigation.
@@ -55,7 +55,7 @@ Computer Science and Software Engineering student at the **University of Washing
 
 
 
-### 4. 🌤️ [Weather-Dashboard](https://github.com/yourusername/weather-dashboard)
+### 4. 🌤️ [Weather-Dashboard]
 
 * **Tech Stack:** HTML5, CSS3, JavaScript, OpenWeather API
 * **Description:** A modern, responsive web application delivering real-time meteorological data.
