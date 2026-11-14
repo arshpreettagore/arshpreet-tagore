@@ -7,7 +7,7 @@ Based on the professional experience, technical projects, and skills detailed in
 
 📍 Bothell, WA | (425) 236-2082 | atagor@uw.edu
 
-[LinkedIn Profile](https://www.google.com/search?q=https://linkedin.com/in/arshpreet-tagore) | [GitHub Profile](https://www.google.com/search?q=%23) *(Insert Link)*
+[LinkedIn Profile](https://www.google.com/search?q=https://linkedin.com/in/arshpreet-tagore) | [GitHub Profile](https://www.google.com/search?q=%23) 
 
 ---
 
